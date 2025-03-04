@@ -1,0 +1,17 @@
+ID,PRE/POST,ENVIRONMENT,FILENAME,HAS_ATTACHMENTS,REQUESTER,DURATION,CM_AM,CM_IT,CM_UAT,CM_TST5,CM_ST,CM_DEVE2E,CM_COURTESY,CM_PT,CM_CATALOG,CM_ACNDEVOPS,CM_PROD
+1,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,nagarajan.seetharaman,5,x,,,,,,,,,,x
+2,POST,ALIGNMENT,INC3009576_ArchivingLogCase.docx,TRUE,nagarajan.seetharaman,5,x,,,,,,,,,,x
+3,POST,ALIGNMENT,20230706_Manual_Procedure_INC3042107.txt,FALSE,nagarajan.seetharaman,5,x,x,x,,x,x,,,,,x
+6,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Sangeetha.thiagarajan,5,,,,,x,,,,,,
+8,POST,ALIGNMENT,Admin.profile-meta,FALSE,Sangeetha.thiagarajan,5,,,,,x,,,,,,
+9,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Gurumani.rajaguru,5,,,,,x,,,,,,
+10,POST,ALIGNMENT,20230912_Manual_Procedure_INC3277895.txt,FALSE,vinitha.thirugnanam,5,x,x,x,,x,x,,,,,x
+18,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Swathi.saravanan,5,,,,,x,,,,,,
+21,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Manivasagam.giritharan,5,,,,,x,,,,,,
+23,POST,ALIGNMENT,Admin.profile-meta,FALSE,Gurumani.rajaguru,5,,,,,x,,,,,,
+24,POST,ALIGNMENT,SKYOSBProfile.profile-meta,FALSE,Gurumani.rajaguru,5,,,,,x,,,,,,
+25,PRE,ALIGNMENT,Admin.profile-meta.xml,FALSE,vinitha.thirugnanam,5,x,x,,,,,,,,,
+26,PRE,ALIGNMENT,Sky IT FullAccess.profile-meta.xml,FALSE,vinitha.thirugnanam,5,x,x,,,,,,,,,
+27,PRE,ALIGNMENT,AmministratoreAOM.profile-meta.xml,FALSE,vinitha.thirugnanam,5,x,x,,,,,,,,,
+28,PRE,ALIGNMENT,Retention Prevention.profile-meta.xml,FALSE,Gurumani.Rajaguru,5,x,x,,,,,,,,,
+29,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,vinitha.thirugnanam,5,x,,,,,,,,,,x
