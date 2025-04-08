@@ -1,0 +1,75 @@
+ID,PRE/POST,ENVIRONMENT,FILENAME,HAS_ATTACHMENTS,REQUESTER,DURATION,CM_AM,CM_IT,CM_UAT,CM_TST5,CM_ST,CM_DEVE2E,CM_COURTESY,CM_PT,CM_CATALOG,CM_ACNDEVOPS,CM_PROD
+1,POST,PROD,20230622_Manual_Procedure_INC3042107.txt,FALSE,nagarajan.seetharaman,5,,,,,,,,,,,x
+2,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,nagarajan.seetharaman,5,x,,,,,,,,,,x
+3,POST,ALIGNMENT,INC3009576_ArchivingLogCase.docx,TRUE,nagarajan.seetharaman,5,x,,,,,,,,,,x
+4,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+5,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+6,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+7,POST,UAT,20230706_Manual_Procedure_INC3042107.txt,FALSE,nagarajan.seetharaman,5,x,x,x,,x,x,,,,,x
+8,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+11,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Sangeetha.thiagarajan,5,,,,,x,,,,,,
+12,POST,ALIGNMENT,Admin.profile-meta,FALSE,Sangeetha.thiagarajan,5,,,,,x,,,,,,
+13,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Gurumani.rajaguru,5,,,,,x,,,,,,
+14,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+15,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+16,PRE,UAT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+17,PRE,UAT,CC Inbound CRM.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+18,PRE,UAT,CC Supervisor CRM.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+19,PRE,UAT,CC Supervisor.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+20,PRE,UAT,CC Supervisor Data Quality.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+21,PRE,UAT,CC Supervisor Web Team.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+22,PRE,UAT,CC Support.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+23,PRE,UAT,CC Support Data Quality.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+24,PRE,UAT,CC Support Web Team.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+25,PRE,UAT,CC Unico.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+26,PRE,UAT,CCSupervisorWebTeamVCT.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+27,PRE,UAT,SysInformatica.profile-meta.profile-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+28,PRE,UAT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+29,PRE,UAT,CustomLabels.labels-meta,FALSE,swathi.saravanan,5,,,x,,,,,,,,
+37,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Swathi.saravanan,5,,,,,x,,,,,,
+40,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Manivasagam.giritharan,5,,,,,x,,,,,,
+41,POST,UAT,20230912_Manual_Procedure_INC3277895.txt,FALSE,vinitha.thirugnanam,5,x,x,x,,x,x,,,,,x
+42,PRE,ALIGNMENT,Admin.profile-meta.xml,FALSE,vinitha.thirugnanam,5,x,x,,,,,,,,,
+43,PRE,ALIGNMENT,Sky IT FullAccess.profile-meta.xml,FALSE,vinitha.thirugnanam,5,x,x,,,,,,,,,
+44,PRE,ALIGNMENT,AmministratoreAOM.profile-meta.xml,FALSE,vinitha.thirugnanam,5,x,x,,,,,,,,,
+45,PRE,ALIGNMENT,Retention Prevention.profile-meta.xml,FALSE,Gurumani.Rajaguru,5,x,x,,,,,,,,,
+55,POST,ALIGNMENT,Admin.profile-meta,FALSE,Gurumani.rajaguru,5,,,,,x,,,,,,
+56,POST,ALIGNMENT,SKYOSBProfile.profile-meta,FALSE,Gurumani.rajaguru,5,,,,,x,,,,,,
+57,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,senthilkumar.rathinakumar,5,,,x,,,,,,,,
+58,PRE,UAT,CustomLabels.labels-meta,FALSE,nagarajan.seetharaman,5,,,x,,,,,,,,
+59,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,vinitha.thirugnanam,5,x,,,,,,,,,,x
+60,POST,ALIGNMENT,INC3611409_Manual Procedure,FALSE,vinitha.thirugnanam,5,x,,,,,,,,,,x
+61,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Senthil.kumar,5,x,,,,x,,,,,,x
+62,POST,UAT,20240403_Manual_Procedure_Hermes.txt,FALSE,kodati.kumarsai,5,,,x,,,,,,,,
+63,PRE,UAT,NewCrm_Editconsistenza Edit Reference change,TRUE,shyam.ramkumar,5,x,x,x,,x,,,x,,,
+64,PRE,UAT,CustomLabels.labels-meta,FALSE,vinitha.thirugnanam,5,,,x,,,,,,,,
+65,PRE,UAT,CustomLabels.labels-meta,FALSE,shyam.ramkumar,5,,,x,,,,,,,,
+67,POST,ALIGNMENT,ProfilesAdded.xlsx,FALSE,Nitish.Samanthakurthi,5,,x,,,,,,,,,
+68,PRE,ALIGNMENT,CustomLabel(LLAMA_SkyStreamHWError).xml,FALSE,Nitish.Samanthakurthi,5,,x,,,,,,,,,
+69,PRE,ALIGNMENT,CustomLabel(SkyStreamProductCode).xml,FALSE,Nitish.Samanthakurthi,5,,x,,,,,,,,,
+71,POST,ALIGNMENT,SysInformatica _Added.xlsx,FALSE,thahaseen.ellecheruvu,5,,x,,,,,,,,,
+72,PRE,ALIGNMENT,Automaccquerysf.profile-meta,FALSE,jamal.kadharbasha,5,x,,,,x,,,,,,x
+73,PRE,ALIGNMENT,NewCrm_Editconsistenza Edit Reference change,TRUE,Shyam.ramkumar,5,x,x,x,,x,,,x,,,
+74,POST,ALIGNMENT,ManualProcedure_20240411.txt,TRUE,nagarajan.seetharaman,4,,x,,,,,,,,,
+75,PRE,UAT,CustomLabels.labels-meta,FALSE,vinitha.thirugnanam,5,,,x,,,,,,,,
+76,POST,UAT,CustomLabels.labels-meta,FALSE,nagarajan.seetharaman,5,,,x,,,,,,,,
+77,POST,UAT,Custommetadata record,FALSE,kodati.kumarsai,4,,,X,,,,,,,,
+78,POST,UAT,NewCRM_Hub6_CommecialTypeValorization_AFD Flow Modification Proceedure,TRUE,shyam.ramkumar,5,,,X,,,,,,,,
+87,POST,ALIGNMENT,ManualProcedure_20240411.txt,TRUE,nagarajan.seetharaman,5,,x,,,,,,,,,
+89,PRE,ALIGNMENT,CustomLabel(newcrm_remdi_Retention_Date).xml,FALSE,Nitish.Samanthakurthi,5,,x,,,,,,,,,
+90,POST,ALIGNMENT,ProfilePermissions.xlsx,FALSE,Nitish.Samanthakurthi,5,,x,,,,,,,,,
+92,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,Gurumani.Rajaguru,5,x,x,x,,x,,,x,,,x
+93,POST,ALIGNMENT,20240723_FieldMapperUpdate_OrderItem2Asset,FALSE,vinitha.thirugnanam,5,x,x,x,,x,,,x,,,x
+94,PRE,ALIGNMENT,objects/vlocity_cmt__Promotion__c/recordTypes,FALSE,Gurumani.Rajaguru,5,x,x,x,,x,,,x,,,x
+95,POST,ALIGNMENT,ManualProcedure_PromotionDiscountRecordtype.txt,FALSE,Gurumani.Rajaguru,5,x,x,x,,x,,,x,,,x
+96,POST,ALIGNMENT,20240723_FieldMapperUpdate_OrderItem2Asset.txt,FALSE,vinitha.thirugnanam,5,x,x,x,,x,,,x,,,x
+97,POST,ALIGNMENT,ManualProcedure_GDPR_NewField.txt,FALSE,Swathi.Saravanan,5,x,x,x,,x,,,x,,,x
+98,Pre,ALIGNMENT,CustomLabels.labels-meta,FALSE,thahaseen.ellecheruvu.ciec@skytv.it,5,,,,,x,,,,,,X
+99,PRE,UAT,ManualProcedure step for Custom setting record,FALSE,kodati.kumarsai,5,x,x,x,,,,,,,,
+100,PRE,UAT,ManualProcedure step for custom label record,FALSE,swathi.saravanan,5,x,x,x,,,,,,,,
+101,PRE,UAT,ManualProcedure step for Custom setting record,TRUE,shyam.ramkumar,5,x,x,x,,,,,,,,
+102,PRE,UAT,ManualProcedure Step to add "BlueBird_Archivio_WorkOrder" Visualforce page to the "Profile Partner Community Società Recupero" profile,TRUE,jamal.kadharbasha,5,x,x,x,,,,,,,,
+103,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+104,PRE,ALIGNMENT,CustomLabels.labels-meta,FALSE,gurumani.rajaguru,5,,,x,,,,,,,,
+105,PRE,UAT,CustomLabels.labels-meta,FALSE,vinitha.thirugnanam,5,,,x,,,,,,,,
+106,PRE,ALIGNMENT,Manual_Procedure_INC4201628.txt,TRUE,jamal.kadharbasha,5,,,,,x,,,,,,x

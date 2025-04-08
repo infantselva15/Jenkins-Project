@@ -1,0 +1,3 @@
+Set isActive to true for the records returned by the below query
+
+SELECT ID,vlocity_cmt__PricingElementId__r.name,vlocity_cmt__IsActive__c from vlocity_cmt__PriceListEntry__c where vlocity_cmt__GlobalKey__c IN ('1055246b-12c5-313a-cdae-520345705ed2','667d7b9a-9561-3b41-b078-c2c50c88a300','22ec96a2-43e7-9940-dd3c-2cf1f39fbe52','8f9933ec-90f3-86ee-557f-2ee61ceebbee','9c0ffeb3-ff2a-fe7e-a319-2cf2382af2f5','0cc4492f-f6f1-658d-3c8e-29ecea5b54e3','49dabc4e-5cf8-a260-da35-e879b35dd7c3')

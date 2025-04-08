@@ -1,0 +1,34 @@
+
+Manual Configuration of Override Attributes
+
+-------------------------------------------------------------------------------
+--------------------------- MANUAL PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+
+1.	Open the Vlocity Product Console, search for the promotion in the Attribute_BBTemplate_07_11.xls file and select it
+2.	After opening the promotion click on Product Adjustments and on the product related to the attribute to be valued in the Attribute_BBTemplate_07_11.xls file 
+3.	Select ChildProduct of the product by expanding the arrow next to the name and selecting the product indicated in the ChildProduct field of the excel
+4.	Click on PRODUCT CHILD in the window that opens on the right and press the Override Mode flag (on)
+5.	Press "Create Override" and set the values Min quantity,Default Quantity,Max Quantity as marked in the excel file Attribute_BBTemplate_07_11.xls 
+6.    Repeat the operations for each promo/attribute in the Attribute_BBTemplate_07_11.xls file
+7. when you have finished entering the attributes, run the query in the AttributeAssignment_templateBB_07_11.xls file in the query sheet box A1
+8. insert the extracted data in the Base sheet of the AttributeAssignment_templateBB_07_11.xls file from column A to column C according to the following mapping:
+      Column A=vlocity_cmt__PromotionId__r.vlocity_cmt__Code__c
+      Column B=vlocity_cmt__OverridingProductChildItemId__c
+      Column C=vlocity_cmt__OverridingProductChildItemId__r.vlocity_cmt__GlobalKey__c
+
+9. check that column A of the update sheet has been populated, then update the vlocity_cmt__ProductChildItem__c object via the inspector, using Only the data in columns A and B of the Update sheet to update
+
+-------------------------------------------------------------------------------
+--------------------------- VERIFY PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+select  vlocity_Cmt__promotionid__r.vlocity_Cmt__code__C, vlocity_Cmt__promotionitemid__r.unique_Code__c,vlocity_cmt__OverridingProductChildItemId__r.vlocity_cmt__ChildProductId__r.name , vlocity_cmt__OverridingAttributeAssignmentId__r.vlocity_Cmt__attributedisplayname__C,vlocity_cmt__OverridingProductChildItemId__r.vlocity_cmt__Quantity__c, vlocity_cmt__OverridingProductChildItemId__r.vlocity_cmt__MaxQuantity__c, vlocity_cmt__OverridingProductChildItemId__r.vlocity_cmt__MinQuantity__c  from vlocity_cmt__overridedefinition__C where vlocity_Cmt__promotionid__r.vlocity_Cmt__code__C in('1300141','1300142','1300143','1300144','1500976','1500977','1500978','1500979','1400970','1400971','1500974','1500975','1100671','1100671001','1201902','1201905','1201906','1201907','1201908','1201909')
+-------------------------------------------------------------------------------
+-------------------------------- DEPENDENCIES ---------------------------------
+-------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------
+---------------------------------- ROLLBACK -----------------------------------
+-----------------------------------------------------------------------------------------------

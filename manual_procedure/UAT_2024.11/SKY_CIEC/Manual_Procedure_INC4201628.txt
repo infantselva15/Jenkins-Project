@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+--------------------------- MANUAL PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Below are the manual procedure to add "BlueBird_Archivio_WorkOrder" Visualforce page to the "Profile Partner Community Società Recupero" profile
+-------------------------------------------------------------------------------------------------------------------------------------------------
+1. Go To Setup-> Quick Find Search and type "Profile".
+2. click on 'Profile'.
+3. Open "Partner Community Società Recupero Crediti" profile.
+4. In the App section select "Visualforce Page Access"
+5. Click Edit
+6. Select the checkbox of "BlueBird_Archivio_WorkOrder"
+7. Click save

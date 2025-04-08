@@ -1,0 +1,7 @@
+Resource,Vendor,Date
+force-app/main/default/classes/NewCRM_ArchivioChatTranscriptCtrl.cls,,
+force-app/main/default/classes/NewCRM_ArchivioMSOCtrl.cls,,
+force-app/main/default/classes/NewCRM_ArchivioMSOCtrl_Test.cls,,
+force-app/main/default/classes/NewCRM_ArchivioQuestionariCtrl_Test.cls,,
+force-app/main/default/classes/NewCRM_ClaimPortalController.cls,,
+force-app/main/default/classes/NewCRM_ClaimPortalControllerTest.cls,,

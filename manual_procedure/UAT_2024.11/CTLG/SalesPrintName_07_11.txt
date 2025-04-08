@@ -1,0 +1,48 @@
+----------------------------------------------------------------------
+--------------------------------- DESCRIPTION ---------------------------------
+-------------------------------------------------------------------------------
+
+Manual configuration for Sales print name
+
+-------------------------------------------------------------------------------
+--------------------------- MANUAL PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+1. Add these two promo code in below mentioned sales print names 1300141;1300144.
+
+sconto_att_skystream_2
+sconto_consegna_stream_2
+sconto_pacchetto_7
+
+
+2. Add these two promo code in below mentioned sales print names 1300142;1300143
+
+sconto_5e_Sky_Ultra_HD_per18mesi
+sconto_99_att_decoder_5
+sconto_att_skystream_2
+sconto_consegna_fibra7
+sconto_consegna_stream_2
+sconto_pacchetto_7
+
+
+3. Add these two promo code in below mentioned sales print names 1400970;1400971
+	
+sconto_consegna_fibra8
+unatantum_9e_skyqviainternet2
+
+
+
+-------------------------------------------------------------------------------
+--------------------------- VERIFY PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+select id,Label, MasterLabel, PRODUCT_CODE__c, PRODUCT_CODE_TO_EXCLUDE__c, ATTRIBUTES__c, X_CODICE_PROMO__c, TYPE__c, X_CODICE_PROMO_ADDITIONAL__c, X_SALES_PRINT_NAME__c from NS_VCPQ_SalesPrintName__mdt where X_CODICE_PROMO__c like '%1300135%'
+
+
+-------------------------------------------------------------------------------
+-------------------------------- DEPENDENCIES ---------------------------------
+-------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------
+---------------------------------- ROLLBACK -----------------------------------
+-------------------------------------------------------------------------------

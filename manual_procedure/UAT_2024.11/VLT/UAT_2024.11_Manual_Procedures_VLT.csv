@@ -1,0 +1,167 @@
+ID,PRE/POST,ENVIRONMENT,FILENAME,HAS_ATTACHMENTS,REQUESTER,DURATION,CM_AM,CM_IT,CM_UAT,CM_TST5,CM_ST,CM_DEVE2E,CM_COURTESY,CM_PT,CM_CATALOG,CM_ACNDEVOPS,CM_PROD
+1,POST,ALIGNMENT,2022.04.27_BFX_AmministrazioneAttivita.txt,FALSE,lorenzo.bellinzona,5,x,x,,x,,,,,,,x
+2,POST,ALIGNMENT,2021.09.15_DigitalMigrationWarmUp.txt,FALSE,sara.chiartosini,5,,,,X,,,,,,,
+3,POST,ALIGNMENT,2021.09.28_NewInterfaceImplementation.txt,FALSE,sara.chiartosini,5,,,,X,,,,,,,
+4,POST,ALIGNMENT,2021.09.28_AmministrazioneAttività.txt,FALSE,teresa.chiuso,5,,X,X,,,,,,,,
+5,POST,ALIGNMENT,2021.09.28_NewInterfaceImpl.txt,FALSE,sara.chiartosini,5,,,,X,,,,,,,
+6,POST,ALIGNMENT,2021.10.12_EliminazioneCampoData_Attivazione_Sky_go_extra__c,FALSE,teresa.chiuso,5,,X,,,,,,,,,
+7,POST,ALIGNMENT,2021.10.13_vlocityAPIMetadataChanges.txt,FALSE,a.gunasekaran,5,,X,X,,,,,,,,
+8,POST,ALIGNMENT,2021.10.19_DisattivazioneAttivitàSKY994.txt,FALSE,teresa.chiuso,5,,X,,,,,,,,,
+9,POST,ALIGNMENT,2021.11.18_vlocityAPIMetadataChanges.txt,FALSE,a.gunasekaran,5,,X,X,,,,,,,,
+10,POST,ALIGNMENT,2021.11.18_vlocityAPIMetadataChanges.txt,FALSE,sara.chiartosini,10,,,,,,,,,,,
+11,POST,ALIGNMENT,20220121_ImportListOfValueActivity_LLAMA.txt,TRUE,paolo.occhetto,5,,x,x,X,,,,,,,
+12,POST,ALIGNMENT,2022.02.28_AmministrazioneAttività.txt,FALSE,emanuele.coppola,1,,,X,,X,,,,,,x
+13,POST,ALIGNMENT,20220500_FieldMapper_ConfigureFieldMapper.txt,FALSE,emanuele.coppola,5,,,X,,X,,,,,,x
+14,POST,ALIGNMENT,20220500_LOV_ImportChurn_Reason.txt,TRUE,lorenzo.bellinzona,2,,,X,,X,,,,,,x
+15,POST,ALIGNMENT,20220500_LOV_ImportCHURN_REASON_BY_COMPONENT.txt,TRUE,lorenzo.bellinzona,2,,,X,,X,,,,,,x
+16,POST,ALIGNMENT,20220500_LOV_ImportServiceToServiceRequest.txt,TRUE,lorenzo.bellinzona,2,,,X,,X,,,,,,x
+17,POST,ALIGNMENT,20220500_LOV_ImportSKY354.txt,TRUE,lorenzo.bellinzona,2,,,X,,X,,,,,,x
+18,POST,ALIGNMENT,20220322_Attribute_Override_ProvaSky_Sellin.txt,FALSE,federica.giacalone,5,,,X,,X,,,,X,,x
+19,POST,ALIGNMENT,2022.04.13_AmministrazioneAttivita.txt,FALSE,lorenzo.bellinzona,1,x,x,,x,x,,,,,,
+20,POST,ALIGNMENT,20220427_NewFieldsLevelSecurity_ProvaSky_Sellin.txt,FALSE,lorenzo.bellinzona,5,,,X,,X,,,,X,,x
+21,POST,ALIGNMENT,2022.05.04_BFX_AmministrazioneAttivita.txt,FALSE,lorenzo.bellinzona,15,x,x,,x,,,,,,,x
+22,POST,ALIGNMENT,2022.04.27_AssegnazionePermissionSet.txt,FALSE,coppola.emanuele,15,,,x,,x,,,,,,x
+23,POST,ALIGNMENT,2022.05.11_BFX_AmministrazioneAttivita.txt,FALSE,lorenzo.bellinzona,15,x,x,,x,,,,,,,x
+24,POST,ALIGNMENT,MP_Catalogo_RuleAssignmentOnPle.txt,TRUE,federico.santurbano,15,x,,x,,,,,,,,x
+25,POST,ALIGNMENT,2022.04.27_SchedulazioneReport.txt,FALSE,coppola.emanuele,15,,,x,,x,,,,,,x
+26,POST,ALIGNMENT,2022.05.31_HF_Update_Promotion_Item.txt,TRUE,federico.santurbano,10,,,,,,,,,,,
+27,POST,ALIGNMENT,20220727_FieldMapper_ConfigureFieldMapper.txt,FALSE,lorenzo.bellinzona,5,,,X,,X,,,,,,
+28,POST,ALIGNMENT,2022.06.10_CustomPUTAWSConnection.txt,FALSE,arunkumar.gunasekaran,15,,,,,,,,,,,
+29,POST,ALIGNMENT,20220613_MP_Disattivare-Riattivare-OS-LLAMA.txt,FALSE,paolo.occhetto,5,,,,,,,,,,,
+30,POST,ALIGNMENT,20220613_MP_visibilita_nuovi_campi_ordine.txt,FALSE,paolo.occhetto,5,,,,,,,,,,,
+31,POST,ALIGNMENT,20220727_LOV_ImportSKY8080.txt,TRUE,lorenzo.bellinzona,5,,,X,,X,,,,,,
+32,POST,ALIGNMENT,2022.06.16_2022.06.29_ManualProcedures.txt,FALSE,a.gunasekaran/t.kasar,45,,,,,,,,,,,
+33,PRE,ALIGNMENT,2022.07.06_Bugfix_ManualProcedures.txt,FALSE,a.gunasekaran,5,,,,,,,,,,,
+34,PRE,ALIGNMENT,RuleName20220629.txt,FALSE,laura.acquaviva,2,x,,,,,,,,,,
+35,PRE,ALIGNMENT,2022.07.06_Bugfix_CTG_ManualProcedures.txt,FALSE,a.gunasekaran,10,x,,,,,,,,,,
+36,POST,ALIGNMENT,2022.07.13_Bugfix_ManualProcedures.txt,FALSE,Tejaswini Kasar,5,x,,,,,,,,,,x
+37,PRE,ALIGNMENT,2022.07.20_ManualPorcedure_SourceFieldABPUpdate.txt,FALSE,federico.santurbano,2,x,,,,,,,,,,
+38,POST,ALIGNMENT,20220831_CGA_ONLY TV_TEMPLATE 4 PROSPECT_PARCO_Netflix.txt,TRUE,lorenzo.bellinzona,5,,X,X,,X,,,,,,
+39,POST,ALIGNMENT,20220831_CGA_ONLYTV_TEMPLATE4PROSPECT_PARCO_Netflix.txt,TRUE,lorenzo.bellinzona,5,,X,X,,X,,,,,,
+40,POST,ALIGNMENT,2022_08_23_MP_PriceListEntry.txt,TRUE,federico.santurbano,10,x,,x,,,,,,,,
+41,POST,ALIGNMENT,2022.08.18_MVP_ManualProcedures_PostDeploymentStep.txt,FALSE,Tejaswini Kasar,5,x,,,,,,,,,,x
+42,PRE,ALIGNMENT,2022.08.18_MVP_ManualProcedures_PreDeploymentStep.txt,FALSE,Tejaswini Kasar,5,x,,,,,,,,,,x
+43,POST,ALIGNMENT,20220831_CGA_ONLY_TV_TEMPLATE_4_PROSPECT_PARCO_Netflix_v03.txt,TRUE,lorenzo.bellinzona,5,,X,X,,X,,,,,,
+44,POST,ALIGNMENT,2022.08.31_MVP_ManualProcedures_PostDeploymentStep.txt,FALSE,Tejaswini Kasar,60,x,,,,,,,,,,x
+45,PRE,ALIGNMENT,2022.08.31_MVP_ManualProcedures_PreDeploymentStep.txt,FALSE,Tejaswini Kasar,15,x,,,,,,,,,,x
+46,POST,ALIGNMENT,20220818_MP_Disattivare-Riattivare-OS-LLAMA.txt,FALSE,paolo.occhetto,5,,,,,,,,,,,
+47,POST,ALIGNMENT,20220818_MP_Disattivare-Riattivare-OS-LLAMA.txt,FALSE,paolo.occhetto,6,,,,,,,,,,x,
+48,POST,ALIGNMENT,20220907_Script_RunScriptRecurringPrice.txt,FALSE,lorenzo.bellinzona,5,x,,,,,,,,,,
+49,POST,ALIGNMENT,2022.09.09_AdvancedRules_disactivated_Uptech.txt,FALSE,federica.giacalone,5,,x,,,,,,,x,,
+50,POST,ALIGNMENT,2022.09.05_Attribute_Override_RecommitmentDrop3.txt,FALSE,iman.moutaouakil,5,,x,,,,,,x,,,
+51,PRE,ALIGNMENT,07.09.2022 Recommitment drop 3 Adjustment.txt,FALSE,iman.moutaouakil,5,,x,,,,,,x,,,
+52,POST,ALIGNMENT,20220921_MP_Disattivare-Riattivare-OS-CambioConsistenzaNPP.txt,FALSE,lorenzo.bellinzona,5,,X,,,X,,,,,,
+53,POST,ALIGNMENT,20220818_MP_Disattivare-Riattivare-OS-LLAMA.txt,FALSE,alessandro.ferrari,5,,,,,,,,,,,x
+54,POST,ALIGNMENT,2022.09.22_FinanceUserDSPermissionSet.txt,FALSE,nicolle.martinez,5,x,,,,,,,,,,x
+55,POST,ALIGNMENT,2022.09.30_VlocityAPIMetadataChanges.txt,FALSE,jayesh.birari,5,,,,x,,,,,,,x
+56,POST,ALIGNMENT,2022.10.10_InterfaceImplementation_Update.txt,FALSE,jayesh.birari,5,,,,,,,,,,,x
+57,POST,ALIGNMENT,2022.10.10_InterfaceImplementation_Update.txt,FALSE,jayesh birari,5,,,,,,,,,,,x
+58,POST,ALIGNMENT,2022.10.17_ManualProcedures_NetflixDrop2.txt,FALSE,chandra.reddy,10,,,,,,,,,,,x
+59,POST,ALIGNMENT,20220613_MP_Disattivare-Riattivare-OS-LLAMA.txt,FALSE,paolo.occhetto,6,,,,,,,,,,,
+60,POST,ALIGNMENT,2022.10.26_LlamaFF1_ManualProcedures_PostDeploymentStep.txt,FALSE,Tejaswini Kasar,5,x,,,,,,,,,,x
+61,PRE,ALIGNMENT,2022.10.26_LlamaFF1_ManualProcedures_PreDeploymentStep.txt,FALSE,Tejaswini Kasar,5,x,,,,,,,,,,x
+62,PRE,ALIGNMENT,20222010_LLAMA_DeleteOldMatrixRows.txt,FALSE,paolo.occhetto,10,,x,,,,,,,,,
+63,POST,ALIGNMENT,2022.10.28_InsertCSBatchAddProd2Bask.txt,TRUE,emanuele.coppola,5,,x,,,,,,,,,
+64,POST,ALIGNMENT,2022.11.02_ManualProcedures_ExitDowngrade.txt,FALSE,Shridhar Rakshe,15,,X,,,,,,,,,
+65,POST,ALIGNMENT,20221214_LOV_ImportRECONNECTIONNPP.txt,TRUE,lorenzo.bellinzona,5,,X,X,,,,,,,,
+66,POST,ALIGNMENT,20221214_LOV_ImportSKY8081.txt,TRUE,lorenzo.bellinzona,5,,X,X,,,,,,,,
+67,POST,ALIGNMENT,20221214_LOV_ModificaAttivitaExitFee.txt,FALSE,lorenzo.bellinzona,5,,X,X,,,,,,,,
+68,POST,ALIGNMENT,2022.03.11_MP_PaymentMethodFields.txt,FALSE,paolo.occhetto,5,,x,,,,,,,,,x
+69,POST,ALIGNMENT,20221108_ModificaAttribute_Override_o2s44085.txt,FALSE,iman.moutaouakil,5,,,,x,,,,,,,x
+70,POST,ALIGNMENT,20220818_MP_Disattivare-Riattivare-OS-LLAMA.txt,FALSE,alessandro.ferrari,5,,x,x,,,,,,,,
+71,POST,ALIGNMENT,2022.11.25_MP_visibilita_strategytype.txt,FALSE,alessandro.ferrari,5,,x,x,,,,,,,,
+72,POST,ALIGNMENT,2022.12.14_CatalogDimension_MP.txt,FALSE,jayesh.birari,5,,x,x,,,,,,,,
+73,POST,ALIGNMENT,2022.15.11_overrideAttribute_promo44261.txt,FALSE,iman.moutaouakil,5,,,,,x,,,,,,
+74,POST,ALIGNMENT,2022.12.14_CacheManagement_MP.txt,FALSE,jayeh.birari,5,,,x,,,,,,,,
+75,PRE,ALIGNMENT,2022.12.14_Reconnection_Prestep.txt,FALSE,jayesh.birari,15,,,,,,,,,,,
+76,POST,ALIGNMENT,20221214_ManualProcedures_ExitDowngrade.txt,FALSE,Shridhar Rakshe,15,,X,,,,,,,,,
+77,POST,ALIGNMENT,ITV_NPP_UPSELLING_ManualProcedures.txt,FALSE,Shridhar Rakshe,5,,x,x,,,,,,,,x
+78,POST,PROD,2023.01.17_Migration_fee_npp_product.txt,FALSE,iman.moutaouakil,5,,,x,,,,,,x,,
+79,POST,PROD,20230117_Reconnection2_CatalogDimensions,FALSE,nicolle.martinez,5,,,x,,,,,,,,
+80,POST,PROD,20230117_TechUp2_CatalogDimensions,FALSE,nicolle.martinez,5,,,x,,,,,,x,,
+81,POST,ALIGNMENT,2023.02.08_LlamaFF2_ManualProcedures_PostDeploymentStep.txt,FALSE,Damini Chauhan,5,,x,x,,,,,,,,
+82,POST,ALIGNMENT,20230127_MP_Disattivare_e_riattivare_OS_MigrazioneNPP.txt,FALSE,kristian.monaco,5,x,,,,,,,,,,x
+83,POST,PROD/ALIGNMENT,2023.05.10_attributeOverrides_Promos_Upetchdrop2.txt,false,iman.moutaouakil,15,,,x,,,,,,x,,
+163,POST,ALIGNMENT,20230117_TechUp2_CatalogDimensions.txt,FALSE,iman.moutaouakil,10,,x,x,,,,,,x,,
+165,POST,ALIGNMENT,2023.17.01_Migration_fee_npp_product.txt,FALSE,iman.moutaouakil,15,,x,x,,,,,,x,,
+246,POST,ALIGNMENT,22.12.22_attributeOverridesUpetchdrop2.txt,FALSE,iman.moutaouakil,15,,x,x,,,,,,x,,
+247,POST,UAT,MP_InsertRuleAssignement.txt,TRUE,Federico.Santurbano,5,x,,x,,,,,,,,
+332,POST,ALIGNMENT,2023.03.29_Reconnection_Drop2_MP.txt,FALSE,jayesh.birari,20,,x,x,,,,,,,,
+333,POST,ALIGNMENT,20230222_MP_Disattivare_e_riattivare_OS_ReconnectionNPP.txt,FALSE,kristian.monaco,5,,x,,,,,,,,,x
+420,POST,ALIGNMENT,2023.03.29_MP_Disattivare_e_riattivare_OS_CambioConsistenzaNPP.txt,FALSE,giulia.colombo,5,,x,x,,,,,,,,
+421,POST,ALIGNMENT,2023.03.29_MP_Disattivare_e_riattivare_OS_ConversioneProvaSky.txt,FALSE,giulia.colombo,5,,x,x,,,,,,,,
+422,POST,ALIGNMENT,2023.03.29_MP_Disattivare_e_riattivare_OS_RiconversioneProvaSky.txt,FALSE,giulia.colombo,5,,x,x,,,,,,,,
+423,PRE,ALIGNMENT,2023.03.29_LlamaFF3_ManualProcedures_PreDeploymentStep.txt,FALSE,Damini Chauhan,5,,x,x,,,,,,,,
+424,POST,ALIGNMENT,2023.03.29_LlamaFF3_ManualProcedures_PostDeploymentStep.txt,FALSE,Damini Chauhan,10,,x,x,,,,,,,,
+425,POST,ALIGNMENT,20230329_TemplateStampa_ImportData.txt,FALSE,giulia.colombo,5,,x,x,,,,,,,,
+426,POST,ALIGNMENT,20230329_PermissionSetAssignement_ObjectConsistenza__c.txt,FALSE,giulia.colombo,10,,x,x,,,,,,,,
+506,POST,ALIGNMENT,20230117_TechUp2_CatalogDimensions.txt,FALSE,iman.moutaouakil,5,,x,x,,,,,,x,,
+519,POST,UAT,2023.03.29_MP_Disattivare_e_riattivare_OS_DigitalSignature.txt,FALSE,giulia.colombo,5,,x,x,,,,,,,,x
+520,POST,UAT,20230329_LOV_ImportSKY8020NPP.txt,FALSE,giulia.colombo,10,,x,x,,,,,,,,x
+521,POST,ALIGNMENT,2023.03.29_Compassionate_ManualProcedures_PostDeploymentStep.txt,FALSE,Nicolle Martinez,5,,x,x,,,,,,,,
+522,POST,UAT,20230329_MP_Records-Terminali-Pagamento.txt,TRUE,alessandro.ferrari,10,,x,x,,,,,,,,x
+523,POST,ALIGNMENT,20230329_Disattivare_e_Riattivare_Layout.txt,FALSE,emanuele.coppola,5,,,,,,,,,,,x
+524,POST,ALIGNMENT,MP_InsertRuleAssignementPromoGradino.txt,TRUE,Federico.Santurbano,5,x,,,,,,,,,,
+608,POST,ALIGNMENT,22.12.22_attributeOverrides_Upetchdrop2.txt,FALSE,iman.moutaouakil,15,,x,x,,,,,,x,,
+609,POST,ALIGNMENT,2023.05.10_attributeOverrides_Promos_Upetchdrop2.txt.txt,FALSE,iman.moutaouakil,15,,x,x,,,,,,x,,
+621,PRE,ALIGNMENT,2023.05.10_NewSalesPe_Pre_Deploy_Steps.txt,FALSE,Arunkumar gunasekaran,10,,,,x,x,,,,,,
+622,POST,ALIGNMENT,2023.05.10_NewSalesPe_Post_Deploy_Steps.txt,FALSE,Arunkumar gunasekaran,10,,,,x,x,,,,,,
+626,PRE,ALIGNMENT,2023.04.20_MINOR_LlamaFF3.1_ManualProcedures_PreDeploymentStep.txt,FALSE,Damini Chauhan,5,,x,x,,,,,,,,
+627,POST,ALIGNMENT,2023.04.20_MINOR_LlamaFF3.1_ManualProcedures_PostDeploymentStep.txt,FALSE,Damini Chauhan,20,,x,x,,,,,,,,
+732,POST,ALIGNMENT,02052023_Disattivare_Riativare_OS_ActivateTVContract.txt,FALSE,kristian.monaco,5,,,x,,x,,,,,,x
+733,POST,ALIGNMENT,20230510_MP_deactivate_and_reactivate_OS_ReconnectionNPP.txt,FALSE,giulia.colombo,5,,,x,,,,,,,,x
+734,POST,ALIGNMENT,20230510_MP_deactivate_and_reactivate_OS_CambioConsistenzaNPP.txt,FALSE,giulia.colombo,5,,,x,,,,,,,,
+735,POST,ALIGNMENT,2023.05.22_BugFixSFI_Post_Deploy_Steps.txt,FALSE,Chandra Reddy,2,,x,,,,,,,,,
+737,POST,ALIGNMENT,20230622_MP_Attribute-Overrides-LLAMA_CTG.txt,FALSE,Damini Chauhan,5,x,,,,,,,,,,
+738,POST,ALIGNMENT,2023.07.06_MP_Profile.txt,FALSE,chakkad,5,,,,,,,,,,,
+846,PRE,ALIGNMENT,2023.06.22_LlamaFF4_ManualProcedures_PreDeploymentStep,FALSE,Damini Chauhan,5,,x,x,,,,,,,,
+847,POST,ALIGNMENT,2023.06.22_LlamaFF4_ManualProcedures_PostDeploymentStep,FALSE,Damini Chauhan,5,,x,x,,,,,,,,
+848,POST,ALIGNMENT,20230526_MP_FLS_orderField_NSPE.txt,FALSE,paolo.occhetto,5,x,x,x,x,x,x,,,,,
+849,POST,ALIGNMENT,2023.07.26_attrubuteoverrides_Uptechdrop2_CTG.txt,FALSE,iman.moutaouakil,5,,,,,x,,,,,,
+850,PRE,ALIGNMENT,2023.06.22_LlamaFF4_ManualProcedures_PreDeploymentStep.txt,FALSE,Damini Chauhan,5,,x,x,,,,,,,,
+851,POST,ALIGNMENT,2023.06.22_LlamaFF4_ManualProcedures_PostDeploymentStep.txt,FALSE,Damini Chauhan,5,,x,x,,,,,,,,
+853,POST,ALIGNMENT,2023.06.22_LlamaFF4_ManualProcedures_PostDeploymentStep_CTG.txt,FALSE,Damini Chauhan,10,,x,x,,,,,,,,
+854,POST,ALIGNMENT,2023.06.22_CacheInspector_PostDeploymentStep.txt,FALSE,jayesh.birari,5,,x,x,x,,x,,,,,x
+855,POST,ALIGNMENT,2023.06.22_NewSalesPEdrop2_Post_Deploy_Steps_CTG.txt,TRUE,Shridhar,20,,x,x,x,,x,,,,,
+856,POST,ALIGNMENT,2023.06.22_NewSalesPEdrop2_Post_Deploy_Steps_CTG.txt,TRUE,Shridhar,15,,x,x,x,,x,,,,,
+857,POST,ALIGNMENT,2023.07.26_OverrideDefinitionCorrection_Post_deploy_CTG.txt,FALSE,jayesh.birari,10,,x,,,,,,,,,
+859,POST,ALIGNMENT,20230726_MP_deactivate_and_reactivate_OS_changeconsistencyNPP.txt,FALSE,giulia.colombo,5,,,x,,,,,,,,
+860,POST,ALIGNMENT,20230726_MP_deactivate_and_reactivate_OS_reconnectionNPP.txt,FALSE,giulia.colombo,5,,,x,,,,,,,,
+861,POST,ALIGNMENT,2023.08.08_NSPI_Aug_PostDeploymentSteps_CTG.txt,FALSE,Shridhar.rakshe,5,,,x,,x,x,,,,,x
+984,POST,ALIGNMENT,2023.07.26_HerokuAPIEnhancements.txt,FALSE,a.gunasekaran,30,,,,,,,,,,,
+985,PRE,ALIGNMENT,MP_Insert_RuleAssignement_PromoMigrazione_CTG.txt,TRUE,Federico.Santurbano,5,,,x,,x,x,,,,,
+986,PRE,ALIGNMENT,MP_Update_ple_PromoMigrazione_CTG.txt,TRUE,Federico.Santurbano,5,,,x,,x,x,,,,,
+987,POST,ALIGNMENT,2023.07.26_LLAMACacheRefresh_PostStep_CTG.txt,FALSE,jayesh.birari,5,,x,,,x,,,,,,
+988,POST,ALIGNMENT,2023.07.26_HerokuAPIEnhancements_CTG.txt,FALSE,a.gunasekaran,40,,,,,,,,,,,
+989,POST,ALIGNMENT,2023.07.26_HerokuAPIEnhancements.txt,FALSE,a.gunasekaran,40,,,,,,,,,,,
+990,PRE,ALIGNMENT,2023.07.26_NSPI_Drop3_Postdeployment_CTG.txt,FALSE,Shridhar.rakshe,10,,,x,,x,x,,,,,
+1121,POST,ALIGNMENT,2023.09.19_MP_Disattivare_e_riattivare_OS_AdesioneLLAMA.txt,FALSE,paolo.occhetto,5,,x,x,,,,,,,,
+1122,POST,ALIGNMENT,MP_Insert_RA_PromoSimilMigrazione_CTG.txt,TRUE,Federico.Santurbano,5,,,,,x,,,,,,
+1123,POST,ALIGNMENT,MP_Delete_obsolete_RA_CTG.txt,TRUE,Federico.Santurbano,5,,,,,x,,,,,,
+1124,POST,ALIGNMENT,MP_Update_PLE_SkyGoPlus_CTG.txt,TRUE,Federico.Santurbano,5,,,,,x,,,,,,
+1125,PRE,ALIGNMENT,2023.11.29_LLAMA_ProductRelationship_pre_MP_CTG.txt,FALSE,Iman.Moutaouakil,10,,x,,,,,,,,,
+1126,PRE,ALIGNMENT,2023.11.29_LLAMA_RuleActions_PostMP_CTG.txt,FALSE,Iman.Moutaouakil,5,,x,,,,,,,,,
+1127,PRE,ALIGNMENT,2023.11.29_llama_Overrides_postMP_CTG.txt,FALSE,Damini.Chauhan,10,,x,,,,,,,,,
+1263,POST,ALIGNMENT,2023.11.29_LLAMA_RuleActions_PostMP_CTG.txt,FALSE,Iman.Moutaouakil,5,,x,,,,,,,,,
+1264,POST,ALIGNMENT,2023.11.29_llama_Overrides_postMP_CTG.txt,FALSE,Damini.Chauhan,10,,x,,,,,,,,,
+1404,POST,ALIGNMENT,2024.01.22_Free_Vison_Post_Steps_CTG.txt,FALSE,Shridhar.Rakshe,5,,,,,x,,,,,,x
+1405,POST,ALIGNMENT,BTS_Manual_Procedure.txt,FALSE,chandni.joshi,15,,x,,,,,,,,,
+1406,POST,ALIGNMENT,2024.05.07_NetflixDrop4_ManualProcedures_PostDeploymentStep.txt,FALSE,Laura.Belle,10,,x,,,,,,,,,
+1407,PRE,ALIGNMENT,2024_03_14_PromoTemplatesCodeCorrection.txt,FALSE,Divakar.Chakka,5,x,,,,,,,,,,
+1408,POST,ALIGNMENT,PINC6_Manual_Procedure_CTG,FALSE,chandni.joshi,5,,x,,,,,,,,,x
+1409,POST,ALIGNMENT,PINC6_Manual_Procedure_CTG.txt,FALSE,Chandni.Joshi,5,,,,,x,,,,,,x
+1410,PRE,ALIGNMENT,DuplicatePricingElementDeletion.txt,FALSE,jayesh.birari,5,,,,,,,,,,,
+1411,POST,ALIGNMENT,NewFieldMapperMapping_20240419.txt,FALSE,emanuele.coppola,5,,x,,,,,,,,,
+1412,POST,ALIGNMENT,RemoteSiteSetting.txt,FALSE,emanuele.coppola,5,,x,,,,,,,,,
+1413,POST,ALIGNMENT,UpdateAccountDummy.txt,FALSE,emanuele.coppola,5,,x,,,,,,,,,
+1414,POST,ALIGNMENT,AssignStreamTrialPS.txt,FALSE,paolo.occhetto,5,,,,,,,,,,,
+1415,POST,ALIGNMENT,Post_Alastor_20240507.txt,FALSE,Shridhar.Rakshe,5,,,,,,,,,,,
+1416,POST,ALIGNMENT,SkyStream_MP.txt,FALSE,jayesh.birari,10,,,,,,,,,,,
+1417,POST,ALIGNMENT,PINC6_Manual_Procedure_PriceUpdate.txt,FALSE,Chandni.joshi,5,,x,,,,,,,,,
+1418,POST,ALIGNMENT,BTS_Manual_Procedure,FALSE,chandni.joshi,15,,x,,,,,,,,,x
+1432,POST,ALIGNMENT,2024.07.23_BundleEditoriale_PostDeploymentStep.txt,FALSE,Damini.Chauhan,10,,x,,,,,,,,,
+1433,POST,ALIGNMENT,2024.07.23_CreatePromotionOverrides.txt,FALSE,jayesh.birari,10,,x,,,,,,,,,
+1434,POST,ALIGNMENT,2024.07.23_UnscheduleBatchJob.txt,FALSE,jayesh.birari,5,,x,,,,,,,,,
+1435,POST,ALIGNMENT,2024.07.23_SFI_OS_Reactivation.txt,FALSE,karthik.bharadwaj,5,,x,,,,,,,,,
+1436,POST,ALIGNMENT,2024.07.23_SFI_UpdateListOfValues.txt,FALSE,karthik.bharadwaj,5,,x,,,,,,,,,
+1437,POST,ALIGNMENT,2024.07.23_SFI_VlocityScheduledBatchRun.txt,FALSE,karthik.bharadwaj,5,,x,,,,,,,,,

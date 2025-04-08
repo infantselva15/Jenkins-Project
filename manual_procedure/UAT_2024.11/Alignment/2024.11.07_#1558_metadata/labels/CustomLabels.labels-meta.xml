@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Enable_CallGetWarranty</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Enable_CallGetWarranty</shortDescription>
+        <value>OFF</value>
+    </labels>
+    <labels>
+        <fullName>getOffersAPIParams</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>getOffersAPIParams</shortDescription>
+        <value>{&quot;batchSize&quot;:20,&quot;productFields&quot; : [&quot;NotOrderableFor__c&quot;,&quot;ProductCodeOM__c&quot;,&quot;IsActive&quot;,&quot;InstallmentPlan__c&quot;,&quot;InstallmentNumber__c&quot;,&quot;ProductType_BB__c&quot;,&quot;PackageCategory_BLB__c&quot;], &quot;promotionFields&quot; : [&quot;InstallmentPlan__c&quot;,&quot;TreatmentProduct__c&quot;,&quot;TreatmentType__c&quot;,&quot;Premium_Service__c&quot;,&quot;PromotionId__c&quot;,&quot;Child_Promo_Code__c&quot;,&quot;Extra__c&quot;,&quot;Durata_PPV__c&quot;,&quot;Codice_Catalogo_PPV__c&quot;,&quot;OnlyRTD__c&quot;,&quot;Descrizione_Promo__c&quot;,&quot;Cluster__c&quot;,&quot;Canale__c&quot;,&quot;Note__c&quot;,&quot;Durata__c&quot;,&quot;Contract_Type__c&quot;,&quot;PriceList_Name__c&quot;,&quot;ProductCodeListino__c&quot;,&quot;Promo_Category__c&quot;,&quot;prezzoNPS__c &quot;,&quot;durataNPS__c&quot;,&quot;pacchettiNPS__c&quot;,&quot;AmbienteDiServizio__c&quot;,&quot;Included_Products__c&quot;,&quot;OG_VoucherCodes__c&quot;,&quot;Coupon__c&quot;,&quot;Reconnection_Technology__c&quot;,&quot;Voucher__c&quot;,&quot;Reitek_EffectiveEndDate__c&quot;,&quot;AFD_EffectiveEndDate__c&quot;,&quot;AOL_EffectiveEndDate__c&quot;,&quot;NewSales_EffectiveEndDate__c&quot;]}</value>
+    </labels>
+</CustomLabels>

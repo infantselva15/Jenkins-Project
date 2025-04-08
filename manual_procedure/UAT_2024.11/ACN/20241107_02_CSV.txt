@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+--------------------------------- DESCRIPTION ---------------------------------
+-------------------------------------------------------------------------------
+Release BFX  07/11
+-------------------------------------------------------------------------------
+--------------------------- MANUAL PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+
+Execute mp in zip file 20241107_02_CSV.zip
+
+1) open 20241107_Dataloader.xlsx
+2) for each line of the excel, use the query to make a backup [for UPDATE, DELETE and (if possible) UPSERT]
+3) open Salesforce inspector --> Data Import
+4) following each action to do for each line of the excel on the specified objects
+5) open each .csv file in Notepad ++
+6) in Data Import:
+
+Action: Insert/Update/Upsert/Delete
+Object: (the name of the object)
+Format: csv
+Data: (paste it the the contents of the .csv file)
+
+If the action is UPSERT, select the External ID written in excel file on the specified line
+
+7) click on Import button
+
+
+-------------------------------------------------------------------------------
+--------------------------- VERIFY PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+
+Insert here steps to verify the correctness of the manual procedure...
+
+-------------------------------------------------------------------------------
+-------------------------------- DEPENDENCIES ---------------------------------
+-------------------------------------------------------------------------------
+
+Insert here dependencies...
+
+-------------------------------------------------------------------------------
+---------------------------------- ROLLBACK -----------------------------------
+-------------------------------------------------------------------------------
+
+Insert here the rollback steps...

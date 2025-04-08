@@ -1,0 +1,57 @@
+----------------------------------------------------------------------
+--------------------------------- DESCRIPTION ---------------------------------
+-------------------------------------------------------------------------------
+
+Manual configuration for Sales print name
+
+-------------------------------------------------------------------------------
+--------------------------- MANUAL PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+1. Add these two promo code in below mentioned sales print names 1300145,1300146.
+
+sconto_att_skystream_2
+sconto_consegna_stream_2
+sconto_pacchetto_7
+
+
+2. Add these two promo code in below mentioned sales print names 1300147,1300148
+
+sconto_pacchetto_7
+
+
+3. Add these two promo code in below mentioned sales print names 1100677
+
+sconto_att_skystream_2
+sconto_consegna_stream_2
+sconto_pacchetto_6
+
+4. Add these two promo code in below mentioned sales print names 1100678
+	
+sconto_adeguamento5
+sconto_att_skystream_2
+sconto_consegna_fibra8
+sconto_consegna_stream_2
+sconto_pacchetto_7
+sconto_prontoskytetto6
+
+5. Add these two promo code in below mentioned sales print names 1100679
+
+sconto_consegna_fibra8
+sconto_pacchetto_7
+
+
+-------------------------------------------------------------------------------
+--------------------------- VERIFY PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+select id,Label, MasterLabel, PRODUCT_CODE__c, PRODUCT_CODE_TO_EXCLUDE__c, ATTRIBUTES__c, X_CODICE_PROMO__c, TYPE__c, X_CODICE_PROMO_ADDITIONAL__c, X_SALES_PRINT_NAME__c from NS_VCPQ_SalesPrintName__mdt where X_CODICE_PROMO__c like '%1300135%'
+
+
+-------------------------------------------------------------------------------
+-------------------------------- DEPENDENCIES ---------------------------------
+-------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------
+---------------------------------- ROLLBACK -----------------------------------
+-------------------------------------------------------------------------------

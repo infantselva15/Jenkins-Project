@@ -1,0 +1,34 @@
+----------------------------------------------------------------------
+--------------------------------- DESCRIPTION ---------------------------------
+-------------------------------------------------------------------------------
+
+Manual configuration for Catalog entry for promotions in excel Catalog_17_10.xls
+
+-------------------------------------------------------------------------------
+--------------------------- MANUAL PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+1.proceed to insert the excel file Catalog_17_10.xls via the inspector
+2.execute the query below
+
+Total Number of records in New = 25
+Total Number of records in New PJ PINC = 4
+
+-------------------------------------------------------------------------------
+--------------------------- VERIFY PROCEDURE STEPS ----------------------------
+-------------------------------------------------------------------------------
+New
+select id, name, CreatedBy.Name, vlocity_cmt__PromotionId__r.Name,vlocity_cmt__IsActive__c,vlocity_cmt__CatalogId__r.Name,vlocity_cmt__EffectiveDate__c from vlocity_cmt__CatalogProductRelationship__c where vlocity_cmt__PromotionId__r.vlocity_cmt__Code__c In ('1500964','1500965','1500966','1500967','1500968','1500969','1500972','1500973','1400960','1400961','1400963','1100672','1100673','1100674','1100675','1100676','1201901') order by vlocity_cmt__PromotionId__r.vlocity_cmt__Code__c asc
+
+Modifications
+select id, name, CreatedBy.Name, vlocity_cmt__PromotionId__r.Name,vlocity_cmt__IsActive__c,vlocity_cmt__CatalogId__r.Name,vlocity_cmt__EffectiveDate__c from vlocity_cmt__CatalogProductRelationship__c where vlocity_cmt__PromotionId__r.vlocity_cmt__Code__c In  ('44741','44740','44739','44747','44746','44745','44755','44756','44754','44757','44759','44758') order by vlocity_cmt__PromotionId__r.vlocity_cmt__Code__c asc
+
+
+-------------------------------------------------------------------------------
+-------------------------------- DEPENDENCIES ---------------------------------
+-------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------
+---------------------------------- ROLLBACK -----------------------------------
+-------------------------------------------------------------------------------
