@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <custom>true</custom>
+    <description>Profilo creato 02/11/2021 sotto richiesta di Marzi Marco per assegnazione nuovo profilo sviluppatori</description>
+    <classAccesses>
+        <apexClass>ProspectOrdersPageController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <pageAccesses>
+        <apexPage>prospectOrdersView</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <pageAccesses>
+		<apexPage>KMS_LH_Home_Page</apexPage>
+		<enabled>true</enabled>
+	</pageAccesses>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>vlocity_cmt__AccountAppliedPromotion__c.Data_di_scadenza_free_vision__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>vlocity_cmt__OrderAppliedPromotion__c.Data_di_scadenza_free_vision__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Activity__c.Id_Articolo_KM__c</field>
+        <readable>true</readable>
+    </fieldPermissions>	
+	<tabVisibilities>
+		<tab>KM_LIGHTHOUSE</tab>
+		<visibility>DefaultOn</visibility>
+	</tabVisibilities> 
+   </Profile>

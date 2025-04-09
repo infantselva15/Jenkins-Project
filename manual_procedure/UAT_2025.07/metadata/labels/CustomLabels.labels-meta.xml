@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>NewCRM_CheckMFAOverAllStatus_Failedmsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_CheckMFAOverAllStatus_Failedmsg</shortDescription>
+        <value>Impossibile verificare lo stato delle iscrizioni. Servizio non disponibile. Contatta il tuo amministratore</value>
+    </labels>
+    <labels>
+        <fullName>Stream_HomeCheckInUpsellingMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stream_HomeCheckInUpsellingMsg</shortDescription>
+        <value>Il servizio Multiroom è presente a carrello, è necessario aggiungere almeno un dispositivo Sky Stream</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_SOGLIAHOME</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_SOGLIAHOME</shortDescription>
+        <value>Ricordare di rendere noto al cliente che il servizio Sky Multiscreen richiede 10 mb/s per la visione in HD per ogni dispositivo Sky Glass e/o Sky Stream: &lt;br&gt; - 10 mb/s per 1 dispositivo &lt;br&gt; - 20 mb/s per la visione in contemporanea di 2 dispositivi &lt;br&gt; - 30 mb/s per la visione in contemporanea di 3 dispositivi</value>
+    </labels>
+    <labels>
+        <fullName>MultiscreenWarningTopStrategyLLAMA</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MultiscreenWarningTopStrategyLLAMA</shortDescription>
+        <value>Ti ricordiamo che non sarà possibile recuperare il servizio Sky Multiscreen (deselezionato in Offer configuration) dopo aver cliccato su ripristina top strategy. Al fine di reinserire il servizio Sky Multiscreen, l’operatore dovrà chiudere questo funnel e aprirne uno nuovo. (Copy in TBD)</value>
+    </labels>
+    <labels>
+        <fullName>newcrm_remdi</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>newcrm_remdi_Retention_Date</shortDescription>
+        <value>-30</value>
+    </labels>
+    <labels>
+        <fullName>Mesi_Parco_Sky_Extra</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Mesi Parco Sky Extra</shortDescription>
+        <value>0</value>
+    </labels>
+    <labels>
+        <fullName>SPE_ContractStatusNotActive</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SPE_ContractStatusNotActive</shortDescription>
+        <value>Lo stato del Contratto non è ATTIVO</value>
+    </labels>
+    <labels>
+        <fullName>SPE_CustomerNotEnrolledToExtra</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SPE_CustomerNotEnrolledToExtra</shortDescription>
+        <value>Il cliente non risulta iscritto a Extra.</value>
+    </labels>
+    <labels>
+        <fullName>SPE_SkyPressCustomerError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SPE_SkyPressCustomerError</shortDescription>
+        <value>Il cliente risulta già iscritto a Sky Press.</value>
+    </labels>
+    <labels>
+        <fullName>SPE_TermsConditions</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SPE_TermsConditions</shortDescription>
+        <value>Terms and Condition</value>
+    </labels>
+    <labels>
+        <fullName>sendConsentsNodeForDS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>sendConsentsNodeForDS</shortDescription>
+        <value>Yes</value>
+    </labels>
+    <labels>
+        <fullName>SkyStream_Switch</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SkyStream_Switch</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>NS_MarketingDescr</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NS_MarketingDescr</shortDescription>
+        <value>Ti piacerebbe restare in contatto con noi e ricevere aggiornamenti su novità e offerte speciali?</value>
+    </labels>
+    <labels>
+        <fullName>NS_ProfilingDescr</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NS_ProfilingDescr</shortDescription>
+        <value>Vuoi sempre il massimo? Se ci fai sapere come usi i prodotti e cosa ti piace, personalizzeremo il servizio per te!</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_CommercialTypeProductCodes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_CommercialTypeProductCodes</shortDescription>
+        <value>CPE_BB;POD_PACK_1_BB;DEVICE_POD;POD_3_BB;POD_4_BB;POD_5_BB;POD_PACK_1_BB</value>
+    </labels>
+    <labels>
+        <fullName>NS_ThirdPartiesDescr</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NS_ThirdPartiesDescr</shortDescription>
+        <value>Ti piacerebbe ricevere le offerte più interessanti pensate dalle nostre aziende partner?</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_PromoMAPrepagato</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_PromoMAPrepagato</shortDescription>
+        <value>8191;8192;8193</value>
+    </labels>
+    <labels>
+        <fullName>PromoDrivenEnrichTPL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PromoDrivenEnrichTPL</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_ShowCanceledAnagForDuration</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_ShowCanceledAnagForDuration</shortDescription>
+        <value>60</value>
+    </labels>
+    <labels>
+        <fullName>NS_DSLogging</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NS_DSLogging</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_EnableSDDForInstallments</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_EnableSDDForInstallments</shortDescription>
+        <value>OFF</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_FinShowLinkNS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_FinShowLinkNS</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_FinAlternativeEmailNS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_FinAlternativeEmailNS</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_FinAvailabilityKOmsgNS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_FinAvailabilityKOmsgNS</shortDescription>
+        <value>Avendo selezionato il pagamento con la finanziaria, il flusso proseguirà lo stesso a prescindere dalla data di riapprovigionamento dell’articolo. (Copy TBD)</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_switchFinanziaria</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_switchFinanziaria</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_BadPayerInClever</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_BadPayerInClever</shortDescription>
+        <value>Il piano rateale del cliente è attualmente interrotto, non è possibile modificare la componente HW</value>
+    </labels>
+    <labels>
+        <fullName>NSPE_callMeNowDestination</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NSPE_callMeNowDestination</shortDescription>
+        <value>&apos;offertaVCPQ&apos;</value>
+    </labels>
+    <labels>
+        <fullName>LLAMAAttribBindChannels</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMAAttribBindChannels</shortDescription>
+        <value>CRM;AOL;NEW_SALES;WSC;MOBILE;AFD;</value>
+    </labels>
+    <labels>
+        <fullName>OG_Channel_AFD</fullName>
+        <categories>Order Generator</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OG_Channel_AFD</shortDescription>
+        <value>AFD</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_ActualDeliveryDate</fullName>
+        <categories>LLAMA</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_ActualDeliveryDate</shortDescription>
+        <value>&lt;h4&gt;La data di consegna effettiva varia a seconda delle modalit&amp;agrave; di &lt;strong&gt;consegna&lt;/strong&gt; e di &lt;strong&gt;pagamento&lt;/strong&gt; scelte e della &lt;strong&gt;destinazione&lt;/strong&gt; e &lt;strong&gt;tipologia di prodotti&lt;/strong&gt; inseriti nell&amp;rsquo;ordine.​&lt;/h4&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_AppointmentConnectionFailure</fullName>
+        <categories>LLAMA</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_AppointmentConnectionFailure</shortDescription>
+        <value>In questo momento non è possibile selezionare una data di appuntamento, procedi con l&apos;Adesione e comunica al cliente che verrà contattato per concordare la data di appuntamento.</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_ConsegnaPortaDescription</fullName>
+        <categories>LLAMA</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_ConsegnaPortaDescription</shortDescription>
+        <value>&lt;h4 style=&quot;margin: 10px 0px;&quot;&gt;Si intende consegna alla porta fuori dalla soglia di ingresso, sar&amp;agrave; necessaria la presenza di almeno una persona per trasportare il televisore 43&quot; e almeno 2 persone per il 55&quot; e 65&quot;.​&lt;/h4&gt;
+&lt;h4 style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;LA CONSEGNA AVVERR&amp;Agrave; INDICATIVAMENTE IN 5-8 GIORNI LAVORATIVI IN BASE AL TUO CAP DI RESIDENZA, IL CORRIERE TI CHIAMER&amp;Agrave; NEI PROSSIMI GIORNI PER CONCORDARE LA DATA DI CONSEGNA.&lt;/strong&gt;&lt;/h4&gt;</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_ConsegnaRelaxDescription</fullName>
+        <categories>LLAMA</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_ConsegnaRelaxDescription</shortDescription>
+        <value>&lt;h4&gt;Sky Glass ti verr&amp;agrave; consegnata a casa, disimballata e sistemata nella stanza che preferisci. Il nostro tecnico si occuper&amp;agrave; di tutti gli step di attivazione in modo che Sky Glass sia pronta all&amp;rsquo;utilizzo. Scegli il giorno e lo slot di consegna nel calendario. Si possono selezionare ulteriori servizi aggiuntivi.​&lt;/h4&gt;</value>
+    </labels>
+
+    <labels>
+        <fullName>RT_WO_TV_RES_MAINT</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RecordType Name WorkOrder TV</shortDescription>
+        <value>ODL_Manutenzione_Residenziale</value>
+    </labels>
+    <labels>
+        <fullName>Insert_ToolScheduler_BatchSize</fullName>
+        <categories>SKY</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Batch size for insert OrderToolSchedeler</shortDescription>
+        <value>2000</value>
+    </labels>
+    <labels>
+        <fullName>URL_LLAMA_Raee</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URL displayed in pop-up message informing the user about Raee collection centers</shortDescription>
+        <value>https://www.cdcraee.it/centri-di-raccolta-comunali/</value>
+    </labels>
+    <labels>
+        <fullName>NFS_DEVICE_LABEL_TLC</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Device Label</shortDescription>
+        <value>TLC</value>
+    </labels>
+    <labels>
+        <fullName>NFS_TouchPoint_Switch</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NFS_TouchPoint_Switch</shortDescription>
+        <value>NEW</value>
+    </labels>
+    <labels>
+        <fullName>NFS_WS_SUCCESS_CODE</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Success code of web service</shortDescription>
+        <value>200</value>
+    </labels>
+    <labels>
+        <fullName>RT_SOAS_AUTH_TV</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RecordType Name SOAS Authorization TV</shortDescription>
+        <value>SOAS_TV_Auth</value>
+    </labels>
+    <labels>
+        <fullName>RT_WO_TV_QC</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RecordType Name WorkOrder TV</shortDescription>
+        <value>ODL_Controllo_Qualita</value>
+    </labels>
+    <labels>
+        <fullName>SOAS_RETURNED_OUTCOME_ACCESSORIES</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SOAS Outcome of Accessories Returned</shortDescription>
+        <value>RITIRO SOLO ACCESSORI</value>
+    </labels>
+    <labels>
+        <fullName>SOAS_RETURNED_OUTCOME_PARTIAL</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SOAS Outcome of Partial Devices Returned</shortDescription>
+        <value>RITIRO APPARATI PARZIALE</value>
+    </labels>
+    <labels>
+        <fullName>SOAS_RETURNED_OUTCOME_TOTAL</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SOAS Outcome of Total Devices Returned</shortDescription>
+        <value>RITIRO APPARATI TOTALE</value>
+    </labels>
+     <labels>
+        <fullName>CouponBBBurn_Stub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CouponBBBurn_Stub</shortDescription>
+        <value>OFF</value>
+    </labels>
+    <labels>
+        <fullName>CouponBBGroupcode_Stub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>CouponBBGroupcode_Stub</shortDescription>
+        <value>HZT</value>
+    </labels>
+    <labels>
+        <fullName>NFS_MSG_AUTH_SOAS_EMAIL_INFO</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Informational text of the SOAS authorization email</shortDescription>
+        <value>Verrà inviata al cliente, in maniera automatica, l&apos; email &quot;Informativa di assistenza presso Negozio Sky&quot; affinchè si ricordi di portare con sè tutto il necessario alla verifica.</value>
+    </labels>
+    <labels>
+        <fullName>NFS_MSG_INFO_TO_CREATE_SOAS_AUTH</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Text info to create soas authorization</shortDescription>
+        <value>Premere CONFERMA per procedere con la creazione dell&apos; autorizzazione. Si ricorda che l&apos; autorizzazione ha validità di 21 giorni dalla data di apertura.</value>
+    </labels>
+    <labels>
+        <fullName>NFS_WS_SUCCESS_CODE</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Success code of web service</shortDescription>
+        <value>200</value>
+    </labels>
+     <labels>
+        <fullName>CMP_CodiceMigrazione</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Created as part of BL299</shortDescription>
+        <value>SKYWIFI_MIG_CODE##TARGET#WAVE1</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckKenanBalanceExpiredErrorMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckKenanBalanceExpiredErrorMsg</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè risultano fatture non saldate</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_Kenan_RestUtil_PreliminaryCheck</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_Kenan_RestUtil_PreliminaryCheck</shortDescription>
+        <value>/v0/billing-accounts/</value>
+    </labels>
+     <labels>
+        <fullName>NewCRM_TakeOver_Netflix</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM TakeOver Netflix</shortDescription>
+        <value>Per effettuare il subentro è necessario prima rimuovere il pacchetto Intrattenimento Plus</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckAnyUpsellingErrorMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckAnyUpsellingErrorMsg</shortDescription>
+        <value>Non è possibile effettuare il subentro perché risulta in corso l’adesione a Sky WiFi o Sky Glass</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckRecordTypeBBErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckRecordTypeBBErrorMessage</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè il cliente ha o ha avuto anche il contratto Sky WiFi</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckRecordTypeLLAMAErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckRecordTypeLLAMAErrorMessage</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè il cliente ha o ha avuto anche il contratto Sky Glass</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_MultiContract_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_MultiContract_Error</shortDescription>
+        <value>Non è possibile effettuare il subentro perché sull’anagrafica del cliente sono presenti altri contratti (attivi e/o cessati)</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_UserPayerDifferent_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_UserPayerDifferent_Error</shortDescription>
+        <value>Non è possibile effettuare il subentro perché il fruitore risulta essere diverso dal pagatore</value>
+    </labels>
+    
+    <labels>
+        <fullName>CT23_HIDDEN_PRODUCTS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Created as part of CT23.2 EN_AL V02</shortDescription>
+        <value>TV_PACK,PSERVICE,DEVICE,CLS,TV_PACK_NPP,CLS_NPP,TELCO_RESIDENTIAL_OFFER_BB</value>
+    </labels>
+    <labels>
+        <fullName>CT23_SWITCH</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Created as part of CT23.2 EN_AL V02</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>SOAS_RETURNED_OUTCOME_WITHDRAWAL</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SOAS Outcome of Devices Returned for Withdrawal</shortDescription>
+        <value>RITIRO APPARATI PER RECESSO</value>
+    </labels>
+    <labels>
+        <fullName>ModificaMailStub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ModificaMailStub</shortDescription>
+        <value>ON_OK</value>
+    </labels>
+    <labels>
+        <fullName>Registrationevietata_stub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Registrationevietata_stub</shortDescription>
+        <value>N</value>
+    </labels>
+    <labels>
+        <fullName>ReinvioMailStub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ReinvioMailStub</shortDescription>
+        <value>ON_OK</value>
+    </labels>
+    <labels>
+        <fullName>SKyIDAmbienteServizio</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SKyIDAmbienteServizio</shortDescription>
+        <value>SKY Q VIA INTERNET;ABBONAMENTOSKY</value>
+    </labels>
+    <labels>
+        <fullName>customerRegistrationStub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>customerRegistrationStub</shortDescription>
+        <value>ON_OK</value>
+    </labels>
+    <labels>
+        <fullName>customerRegistration_statoID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>customerRegistration_statoID</shortDescription>
+        <value>B</value>
+    </labels>
+    <labels>
+        <fullName>infoBlacklistStub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>infoBlacklistStub</shortDescription>
+        <value>ON_OK</value>
+	</labels>	
+	<labels>
+        <fullName>TakeOver_CheckAnyUpsellingErrorMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckAnyUpsellingErrorMsg</shortDescription>
+        <value>Non è possibile effettuare il subentro perché risulta in corso l’adesione a Sky WiFi o Sky Glass</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckKenanBalanceExpiredErrorMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckKenanBalanceExpiredErrorMsg</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè risultano fatture non saldate</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckRecordTypeBBErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckRecordTypeBBErrorMessage</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè il cliente ha o ha avuto anche il contratto Sky WiFi</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckRecordTypeLLAMAErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckRecordTypeLLAMAErrorMessage</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè il cliente ha o ha avuto anche il contratto Sky Glass</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_MultiContract_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_MultiContract_Error</shortDescription>
+        <value>Non è possibile effettuare il subentro perché sull’anagrafica del cliente sono presenti altri contratti (attivi e/o cessati)</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_StatusAttivo_Err</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_StatusAttivo_Err</shortDescription>
+        <value>Il cliente risulta in stato non attivo o PDISC. Se il cliente è in stato PDISC, per effettuare il subentro è necessario prima effettuare la revoca della disdetta</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_StdResidential_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_StdResidential_Error</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè il cliente ha un listino speciale</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_UserPayerDifferent_Error</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_UserPayerDifferent_Error</shortDescription>
+        <value>Non è possibile effettuare il subentro perché il fruitore risulta essere diverso dal pagatore</value>
+    </labels>
+    <labels>
+        <fullName>Takeover_Kenan_BillingAccount_GetBalance_Request_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Takeover_Kenan_BillingAccount_GetBalance_Request_URL</shortDescription>
+        <value>v0/billing-accounts/</value>
+    </labels>
+    <labels>
+        <fullName>URL_CommunitySRC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>URL_CommunitySRC</shortDescription>
+        <value>https://fullprj-digitalservice.cs100.force.com/SRC</value>
+    </labels>
+ <labels>
+        <fullName>NFS_Expert_BB_Enable_Assurance_Premium</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Used to enable the use of the Assurance Premium</shortDescription>
+        <value>OFF</value>
+    </labels>
+    <labels>
+        <fullName>NFS_Expert_BB_Enable_Fulfilment_Premium</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Used to enable the use of the Fulfilment Premium</shortDescription>
+        <value>OFF</value>
+    </labels>
+    <labels>
+        <fullName>NFS_Switch_Method_Expert_Price</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Use new method for calculate price of Expert</shortDescription>
+        <value>OFF</value>
+    </labels>
+    <labels>
+        <fullName>RT_WO_TV_PLANT_TRANSFER</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>RecordType Name WorkOrder TV</shortDescription>
+        <value>ODL_Trasferimento_Impianto</value>
+    </labels>
+    <labels>
+        <fullName>Flow_EuPortability</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Flow EuPortability</shortDescription>
+        <value>ON</value>
+    </labels>
+	<labels>
+        <fullName>GDPR_Ret_Fisc_BatProcess_Size</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GDPR Ret Fisc BatProcess Size</shortDescription>
+        <value>1000</value>
+    </labels>
+    <labels>
+        <fullName>GDPR_Ret_Mktg_BatProcess_Size</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GDPR Ret Mktg BatProcess Size</shortDescription>
+        <value>1000</value>
+    </labels>
+    <labels>
+        <fullName>EU_PortabilitySkipAction</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>EU_PortabilitySkipAction</shortDescription>
+        <value>TA_Account_Query_Update;TA_Account_AlignE2E;TA_Account_After_EWallet;TA_Account_EUPortRecalculation;TA_Account_DML_Update</value>
+    </labels>
+    <labels>
+        <fullName>GDPR_Bozza_Deletion_BatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GDPR_Bozza_Deletion_BatchSize</shortDescription>
+        <value>2000</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_AccountDeletionBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_AccountDeletionBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_CaseDeletionBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_CaseDeletionBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_DataDelBatch_ContractSplitBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_DataDelBatch_ContractSplitBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_OrderDeletionBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_OrderDeletionBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>GDPR_EventDeletion_Batch_Size</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GDPR_EventDeletion_Batch_Size</shortDescription>
+        <value>2000</value>
+    </labels>
+    <labels>
+        <fullName>SwitchProdIssueFixes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SwitchProdIssueFixes</shortDescription>
+        <value>false</value>
+    </labels>	
+    <labels>
+        <fullName>Timing_Cancellazione_Anagrafica</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Timing_Cancellazione_Anagrafica</shortDescription>
+        <value>48</value>
+    </labels>
+    <labels>
+        <fullName>Timing_Cancellazione_Anagrafica_KOSIMOITE</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Timing_Cancellazione_Anagrafica_KOSIMOITE</shortDescription>
+        <value>1</value>
+  </labels>
+	<labels>
+        <fullName>Takeover_SSO_notifications_change_authentication_email_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Takeover_SSO__notifications_change-authentication-email_URL</shortDescription>
+        <value>v1/notifications/change-authentication-email</value>
+    </labels>
+	<labels>
+        <fullName>TakeOver_Kenan_Bypass</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_Kenan_Bypass</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>NFS_Switch_SOAS_ChangeConfig</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Use to enable the relative type of SOAS/Authorization</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>NFS_Switch_SOAS_ReturnDevice</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Use to enable the relative type of SOAS/Authorization</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>NFS_Switch_SOAS_TheftLossDamage</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Use to enable the relative type of SOAS/Authorization</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>Button_Choose_Account</fullName>
+        <categories>AsyncChat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Button for choosing Account in SMS Chat</shortDescription>
+        <value>Select Account</value>
+    </labels>
+    <labels>
+        <fullName>Button_Send_Sms</fullName>
+        <categories>AsyncChat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Button for sending Sms in SMS Chat</shortDescription>
+        <value>Send</value>
+    </labels>
+    <labels>
+        <fullName>Takeover_SSO_CheckEmail_ErrorMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Takeover_SSO_CheckEmail_ErrorMsg</shortDescription>
+        <value>Il metodo CheckMail non ha prodotto risultati</value>
+    </labels>
+    <labels>
+        <fullName>Choose_phone</fullName>
+        <categories>AsyncChat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Choose phone number</shortDescription>
+        <value>Choose the number to send the SMS to.</value>
+    </labels>
+    <labels>
+        <fullName>GDPR_Bozza_Deletion_BatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GDPR_Bozza_Deletion_BatchSize</shortDescription>
+        <value>2000</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_AccountDeletionBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_AccountDeletionBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_CaseDeletionBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_CaseDeletionBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_DataDelBatch_ContractSplitBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_DataDelBatch_ContractSplitBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_GDPR_OrderDeletionBatchSize</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_GDPR_OrderDeletionBatchSize</shortDescription>
+        <value>100</value>
+    </labels>
+    <labels>
+        <fullName>GDPR_EventDeletion_Batch_Size</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>GDPR_EventDeletion_Batch_Size</shortDescription>
+        <value>2000</value>
+    </labels>
+    <labels>
+        <fullName>SwitchProdIssueFixes</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SwitchProdIssueFixes</shortDescription>
+        <value>false</value>
+    </labels>	
+    <labels>
+        <fullName>Button_Change_Account</fullName>
+        <categories>AsyncChat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Change selected Account</shortDescription>
+        <value>Change Account</value>
+    </labels>
+    <labels>
+        <fullName>No_numbers_found</fullName>
+        <categories>AsyncChat</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>No phone numbers available for given Contact</shortDescription>
+        <value>No phone numbers found.</value>
+    </labels>
+    <labels>
+        <fullName>COMPL100_NewAuth</fullName>
+        <language>en_US</language>
+        <protected>false</protected> 
+        <shortDescription>COMPL100_NewAuth</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_ConfermaSubentro_ErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_ConfermaSubentro_ErrorMessage</shortDescription>
+        <value>Verificare con l&apos;amministratore di sistema</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_SSO_UpdateEmail_ErrorMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_SSO_UpdateEmail_ErrorMsg</shortDescription>
+        <value>Verificare con l&apos;amministratore di sistema</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_Tibco_CheckOrderStatus_Url</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_Tibco_CheckOrderStatus_Url</shortDescription>
+        <value>services/mdw/om/orders/validateOrder</value>
+    </labels>
+     <labels>
+        <fullName>NewCRM_TakeOver_Tibco</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_TakeOver_Tibco</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè risultano ordini pending</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_Tibco_UnAvailability</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_Tibco_UnAvailability</shortDescription>
+        <value>null</value>
+    </labels>
+     <labels>
+        <fullName>TakeOver_CheckKenanSuppressedErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckKenanSuppressedErrorMessage</shortDescription>
+        <value>Non è possibile effettuare il subentro perchè risultano fatture non ancora emesse</value>
+    </labels>
+	  <labels>
+        <fullName>TakeOver_CheckEmail_SSO_Bypass</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckEmail_SSO_Bypass</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_Integration_FailureResponse</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_Integration_FailureResponse</shortDescription>
+        <value>Nessuna Risposta!. Si prega di contattare l&apos;amministratore.</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_KenanSuppressed_Bypass</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_KenanSuppressed_Bypass</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_SSO_Bypass_Email_Available</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_SSO_Bypass_Email_Available</shortDescription>
+        <value>false</value>
+    </labels>
+    <labels>
+        <fullName>Takeover_SSO_EmailUpdate_ByPass</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Takeover_SSO_EmailUpdate_ByPass</shortDescription>
+        <value>true</value>
+    </labels>
+	<labels>
+        <fullName>TakeOver_Egon_Bypass</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_Egon_Bypass</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>Timing_CancAnagrafica_FinancingPractice</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Days passed since OE without completion of financing practice procedure</shortDescription>
+        <value>15</value>
+    </labels>
+    <labels>
+        <fullName>switchRepricingChange</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>switchRepricingChange</shortDescription>
+        <value>false</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_CheckKenanSuppressed423ErrorMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckKenanSuppressed423ErrorMessage</shortDescription>
+        <value>Lista suppress in aggiornamento riprovare tra circa 2 ore.</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_TakeOver_ContactFLSError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_TakeOver_ContactFLSError</shortDescription>
+        <value>L'accesso al campo non è presente per alcuni campi di contatto, contattare l'amministratore.</value>
+     </labels>
+     <labels>
+        <fullName>TakeOver_Commune_Validation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_Commune_Validation</shortDescription>
+        <value>KO- Controlla il comune inserito</value>
+    </labels>
+    <labels>
+        <fullName>TakeOver_DOB_Validation</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_DOB_Validation</shortDescription>
+        <value>KO- L età dovrebbe essere superiore a 18 anni</value>
+    </labels>
+    <labels>
+        <fullName>enableWhiteList</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>enableWhiteList</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>NFS_Switch_Expert_BB</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Use to enable Sky Expert BB</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>CT23_HIDDEN_PRODUCTS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Created as part of CT23.2 EN_AL V02</shortDescription>
+        <value>TV_PACK,PSERVICE,DEVICE,CLS,TV_PACK_NPP,CLS_NPP,TELCO_RESIDENTIAL_OFFER_BB,OFF43INCH,OFF55INCH,OFF65INCH</value>
+    </labels>
+    <labels>
+        <fullName>FinanziariaNotCompatiblePromos</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>FinanziariaNotCompatiblePromos</shortDescription>
+        <value>7700;7701;7702;7705;7706;7707;7951;7952;7953;7962;7963;7964</value>
+    </labels>
+	<labels>
+        <fullName>ReconnectionThresholdLimit</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ReconnectionThresholdLimit</shortDescription>
+        <value>-120</value>
+    </labels>
+    <labels>
+        <fullName>getEventsGlassPPV_Stub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stub switch for retrieving PPV events from SCMS</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>MaxTimeRange_GlassPPVEvents</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Max days allowed between &apos;start&apos; and &apos;end&apos; date when fetching PPV events</shortDescription>
+        <value>90</value>
+    </labels>
+    <labels>
+        <fullName>isAssedCached</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>isAssedCached</shortDescription>
+        <value>Y</value>
+    </labels>
+    <labels>
+        <fullName>rootToRetRepricing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>rootToRetRepricing</shortDescription>
+        <value>ROOT;ROOT_NPP;LOGISTIC_ROOT</value>
+    </labels>
+    <labels>
+        <fullName>COMPL100_WS_SUCCESS_CODE</fullName>
+        <categories>COMPL100</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>COMPL100_WS_SUCCESS_CODE</shortDescription>
+        <value>201</value>
+    </labels>
+	<labels>
+        <fullName>TakeOver_CheckActiveSimErrorMsg</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TakeOver_CheckActiveSimErrorMsg</shortDescription>
+        <value>Non è possibile effettuare il subentro perché è presente una SIM in stato attivo</value>
+    </labels>
+    <labels>
+        <fullName>SKYBB_FW_RUN_DIAG15</fullName>
+        <categories>SKYBB</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SKYBB_FW_RUN_DIAG15</shortDescription>
+        <value>Verifica con diagnostica - RESPONSABILITA&apos; CLIENTE-IAV ON FIELD</value>
+    </labels>
+    <labels>
+        <fullName>enableCompleteDeleteHook</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>enableCompleteDeleteHook</shortDescription>
+        <value>true</value>
+    </labels>
+    <labels>
+        <fullName>KMS_Connection_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KMS_Connection_Error_Message</shortDescription>
+        <value>There is some issue with connection.</value>
+    </labels>
+    <labels>
+        <fullName>KMS_NA</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KMS_NA</shortDescription>
+        <value>NA</value>
+    </labels>
+    <labels>
+        <fullName>KM_BB_Article_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_BB_Article_Type</shortDescription>
+        <value>Iniziativa</value>
+    </labels>
+    <labels>
+        <fullName>KM_Intrattenimento_Plus</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_Intrattenimento_Plus</shortDescription>
+        <value>xa</value>
+    </labels>
+    <labels>
+        <fullName>KM_Intrattenimento_Plus_ArticleType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_Intrattenimento_Plus_ArticleType</shortDescription>
+        <value>Pacchetto</value>
+    </labels>
+    <labels>
+        <fullName>KM_LLAMA_Article_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_LLAMA_Article_Type</shortDescription>
+        <value>Iniziativa</value>
+    </labels>
+    <labels>
+        <fullName>KM_Netflix_Premium</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_Netflix_Premium</shortDescription>
+        <value>NTFP</value>
+    </labels>
+    <labels>
+        <fullName>KM_Netflix_Premium_ArticleType</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_Netflix_Premium_ArticleType</shortDescription>
+        <value>Servizio</value>
+    </labels>
+    <labels>
+        <fullName>KM_UltraWifi</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_UltraWifi</shortDescription>
+        <value>SERVICE_POD_BB</value>
+    </labels>
+    <labels>
+        <fullName>KM_SPEAKER_FC</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_SPEAKER_FC</shortDescription>
+        <value>SPEAKER_FC</value>
+    </labels>
+    <labels>
+        <fullName>KM_Voice</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_Voice</shortDescription>
+        <value>VOICE_SERVICE_BB</value>
+    </labels>
+    <labels>
+        <fullName>KM_Hub</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_Hub</shortDescription>
+        <value>CPE_BB</value>
+    </labels>
+    <labels>
+        <fullName>LLAMA_SkyStreamHWError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>LLAMA_SkyStreamHWError</shortDescription>
+        <value>Cambio consistenza su contratto hardware non consentito per Sky Stream</value>
+    </labels>
+    <labels>
+        <fullName>KM_BB_Line_Ceased</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KM_BB_Line_Ceased</shortDescription>
+        <value>BB_LINE_CEASED</value>
+    </labels>
+    <labels>
+        <fullName>SkyStreamProductCode</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SkyStreamProductCode</shortDescription>
+        <value>OFF0INCH</value>
+    </labels>
+    <labels>
+        <fullName>Alastor_AOLCatalog</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Alastor_AOLCatalog</shortDescription>
+        <value>Prospect_AOL</value>
+    </labels>
+    <labels>
+        <fullName>Alastor_Account_Id</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Alastor Account Id</shortDescription>
+        <value>0011x000013DAXTAA4</value>
+    </labels>
+    <labels>
+        <fullName>KMS_LH_HomePage_UserAccess_ErrorMessage</fullName>
+        <categories>KMS Lighthouse Home Page</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>KMS LH Home Page - User Access Error Message</shortDescription>
+        <value>You do not have access to KMS Lighthouse</value>
+    </labels>
+    <labels>
+        <fullName>Hub6ChangeConsError</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Hub6ChangeConsError</shortDescription>
+        <value>ATTENZIONE. NON è POSSIBILE EFFETTUARE UN CAMBIO CONSISTENZA SU UN CLIENTE TRIAL HUB6</value>
+    </labels>
+    <labels>
+        <fullName>DYNAMIC_REPORT_ESCALATION_TEAMS</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DYNAMIC REPORT ESCALATION TEAMS</shortDescription>
+        <value>BO;FW;OF;JAS;SMC;BO SS;MAP-T;BO OLO;IT OPS;IT - AOM;IT AOM BB;Retention;SMC SPARK;SWAT TEAM;SWAT TEAM TEC;SWITCH SQUAD;SPECIAL CLAIM;LIVE ROOM GLASS;BO - SKY SERVICE;BB BO - ASSURANCE;BO - AMMINISTRATIVO;CC - REGIA OPERATIVA;BO - POLO UNICO RECLAMI</value>
+    </labels>
+    <labels>
+        <fullName>Asset_Number</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Asset Number</shortDescription>
+        <value>Asset Number</value>
+    </labels>
+    <labels>
+        <fullName>Codice_Apparato</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Codice Apparato</shortDescription>
+        <value>Codice Apparato</value>
+    </labels>
+    <labels>
+        <fullName>Data_Attivazione</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Data Attivazione</shortDescription>
+        <value>Data Attivazione</value>
+    </labels>
+    <labels>
+        <fullName>Data_Scadenza</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Data Scadenza</shortDescription>
+        <value>Data Scadenza</value>
+    </labels>
+    <labels>
+        <fullName>Matricola</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Matricola</shortDescription>
+        <value>Matricola</value>
+    </labels>
+    <labels>
+        <fullName>Stato</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stato</shortDescription>
+        <value>Stato</value>
+    </labels>
+    <labels>
+        <fullName>Tecnologia</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tecnologia</shortDescription>
+        <value>Tecnologia</value>
+    </labels>
+    <labels>
+        <fullName>Tecnologia_Decoder</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tecnologia Decoder</shortDescription>
+        <value>Tecnologia Decoder</value>
+    </labels>
+    <labels>
+        <fullName>Tipologia_impianto</fullName>
+        <categories>Siebel_Decommisioning</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Tipologia impianto</shortDescription>
+        <value>Tipologia impianto</value>
+    </labels>
+	<labels>
+	    <fullName>COMPL100_EnableCambioAttributiApparati</fullName>
+	    <language>en_US</language>
+	    <protected>false</protected>
+	    <shortDescription>COMPL100_EnableCambioAttributiApparati</shortDescription>
+	    <value>ON</value>
+	</labels>
+	<labels>
+        <fullName>HermesContext</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>HermesContext</shortDescription>
+        <value>autocompleteaddress;tyo</value>
+    </labels>
+	<labels>
+        <fullName>MDW_HERMES_ENDPOINT</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MDW_HERMES_ENDPOINT</shortDescription>
+        <value>MDW_Hermes/</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_AdesioneBB_Product_Codes</fullName>
+        <categories>Created to hold HUB6 related Products</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_AdesioneBB_Product_Codes</shortDescription>
+        <value>CPE_BB</value>
+    </labels>
+    <labels>
+        <fullName>SKYBB_Wifi_Hub6</fullName>
+        <categories>Created to hold HUB6 related Products</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SKYBB_Wifi_Hub6</shortDescription>
+        <value>Sky wifi hub 6</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_Hub6_Username</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_Hub6_Username</shortDescription>
+        <value>gurumani_rajaguru.comcast@sales.sky.it.fullprj , gurumani.rajaguru.ciec@skytv.it.devevo3 ,
+		shyam.ramkumar.ciec@sales.skytv.it.fullprj , shyam.ramkumar.ciec@skytv.it.devpro</value>
+    </labels>
+	<labels>
+        <fullName>MFA_SSO</fullName>
+        <categories>MFA</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>MFA_SSO_GetCustomerInfo</shortDescription>
+        <value>/residential/v0/customers/</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_MFAAdaptorCallInitiated</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_MFAAdaptorCallInitiated</shortDescription>
+        <value>Processo di verifica avviato con successo.
+Solo al termine del processo saranno visibili i nuovi dati su CRM</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_MFA_Testing</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_MFA_Testing</shortDescription>
+        <value>SUCCESS</value>
+    </labels>
+	<labels>
+        <fullName>NewSalesOrigin_CommercialTypeValue</fullName>
+        <categories>Created to hold Commercial Type value for New Sales</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewSalesOrigin_CommercialTypeValue</shortDescription>
+        <value>HUB6</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_MFA_TestingResponseSwitch</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_MFA_TestingResponseSwitch</shortDescription>
+        <value>TRUE</value>
+    </labels>
+    <labels>
+        <fullName>NewCRM_MFA_SSOFailerMessage</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_MFA_SSOFailerMessage</shortDescription>
+        <value>invitare il cliente a creare lo Sky ID in autonomia</value>
+    </labels>
+    <labels>
+        <fullName>ApriDocumentoURL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ApriDocumentoURL</shortDescription>
+        <value>https://dmscrm-ese/sky/doc/viewdoc.aspx?guid=</value>
+    </labels>
+    <labels>
+        <fullName>PendingActionScheduling_PAContext</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PendingActionScheduling_PAContext</shortDescription>
+        <value>Non è possibile effettuare la schedulazione sulla PA in contesto.</value>
+    </labels>
+    <labels>
+        <fullName>PendingActionScheduling_PARemoveDate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PendingActionScheduling_PARemoveDate</shortDescription>
+        <value>Non è possibile rimuovere la schedulazione effettuata.</value>
+    </labels>
+    <labels>
+        <fullName>PendingActionScheduling_PATimeLimitExceed</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>PendingActionScheduling_PATimeLimitExceed</shortDescription>
+        <value>Non è possibile effettuare la schedulazione perchè è stata superata la soglia di tempo limite.</value>
+    </labels>
+    <labels>
+        <fullName>SKY_Calcio_Popup_Switch</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SKY_Calcio_Popup_Switch</shortDescription>
+        <value>OFF</value>
+    </labels>
+    <labels>
+        <fullName>SKYBB_Wifi_Hub4</fullName>
+        <categories>Created to hold HUB6 related Products</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SKYBB_Wifi_Hub4</shortDescription>
+        <value>Sky wifi hub 4</value>
+    </labels>
+    <labels>
+        <fullName>TA_DMLCaseInSync</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>TA_DMLCaseInSync</shortDescription>
+        <value>ON</value>
+    </labels>
+	<labels>
+        <fullName>NewCRM_DMS_DocumentIdentifier</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>NewCRM_DMS_DocumentIdentifier</shortDescription>
+        <value>v0/contents/documents/tokens</value>
+    </labels>
+    <labels>
+        <fullName>SOAS_RETURNED_OUTCOME_ACCESSORIES</fullName>
+        <categories>NFS</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SOAS Outcome of Accessories Returned</shortDescription>
+        <value>RITIRO SOLO ACCESSORI</value>
+    </labels>
+    <labels>
+        <fullName>SOAS_PermissionSet</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SOAS_PermissionSet</shortDescription>
+        <value>NewFieldService_SOAS;Compl100_SOAS</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_USER_NOT_FOUND</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO_ERR_USER_NOT_FOUND</shortDescription>
+        <value>Profilo utente non trovato per il codice cliente fornito</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_EMAIL_ALREADY_IN_USE</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO_ERR_EMAIL_ALREADY_IN_USE</shortDescription>
+        <value>Attenzione! L&apos;indirizzo fornito dal cliente risulta già associato ad un profilo Sky iD e quindi ad una registrazione al sito Sky. E&apos; necessario che ne indichi uno differente. Se non ricorda i dati di registrazione può recuperare autonomamente username e password</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_EMAIL_REQUEST_FAILED</fullName>
+        <categories>SSO ERROR</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO ERROR EMAIL_REQUEST_FAILED</shortDescription>
+        <value>Aggiornamento del profilo riuscito, ma si è verificato un errore durante la richiesta di modifica dell&apos;e-mail</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_ERR10101_USER_PROFILE_NOT_FOUND</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO_ERR_ERR10101_USER_PROFILE_NOT_FOUND</shortDescription>
+        <value>Profilo dell&apos;utente non trovato</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_ERR10102_USER_PROFILE_NOT_ACTIVE</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ERR10102_USER_PROFILE_NOT_ACTIVE</shortDescription>
+        <value>Il profilo dell&apos;utente non è attivo</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_ERR10002_INVALID_FORMAT</fullName>
+        <categories>SSO ERROR</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO_ERR_ERR10002_INVALID_FORMAT</shortDescription>
+        <value>Formato di input non valido</value>
+    </labels>
+    <labels>
+        <fullName>SSO_PROF_EMAIL_SUCCESS</fullName>
+        <categories>SSO ERROR</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO_PROF_EMAIL_SUCCESS</shortDescription>
+        <value>Aggiornamento del profilo e dell'e-mail riuscito</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_USER_NOT_FOUND</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO_ERR_USER_NOT_FOUND</shortDescription>
+        <value>Profilo utente non trovato per il codice cliente fornito</value>
+    </labels>
+    <labels>
+        <fullName>SSO_ERR_EMAIL_SENDING_FAILED</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>SSO_ERR_EMAIL_SENDING_FAILED</shortDescription>
+        <value>Si è verificato un errore durante l'invio dell'e-mail di conferma all'indirizzo fornito</value>
+    </labels>
+    <labels>
+        <fullName>Switch_SkyStream_Reconnection</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Switch_SkyStream_Reconnection</shortDescription>
+        <value>ON</value>
+    </labels>
+    <labels>
+        <fullName>Product_Priority_Response</fullName>
+        <categories>Store Response of Product Priority</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Product Priority Response</shortDescription>
+        <value>FTTC</value>
+    </labels>
+    <labels>
+        <fullName>Product_Priority_Service</fullName>
+        <categories>Check whether /residential/v0/devices/product-priority is Active</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Product Priority Service</shortDescription>
+        <value>OFF</value>
+    </labels>
+</CustomLabels>
