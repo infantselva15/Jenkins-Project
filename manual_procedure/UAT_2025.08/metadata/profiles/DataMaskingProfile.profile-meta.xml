@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <custom>true</custom>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>vlocity_cmt__AccountAppliedPromotion__c.Data_di_scadenza_free_vision__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>vlocity_cmt__OrderAppliedPromotion__c.Data_di_scadenza_free_vision__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+ 	<pageAccesses>
+		<apexPage>KMS_LH_Home_Page</apexPage>
+		<enabled>true</enabled>
+	</pageAccesses>
+	<tabVisibilities>
+		<tab>KM_LIGHTHOUSE</tab>
+		<visibility>DefaultOn</visibility>
+	</tabVisibilities> 
+  </Profile>

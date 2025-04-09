@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ListOfActivity</fullName>
+    <active>true</active>
+    <label>Anagrafica Attività</label>
+    <picklistValues>
+        <picklist>TypeContract__c</picklist>
+        <values>
+            <fullName>ALL</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BB</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>BB%2BHW</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>HW</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>MA</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TV</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TV%2BBB%2BHW</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TV%2BHW</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
